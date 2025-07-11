@@ -35,7 +35,7 @@
 
 #### &nbsp;Game Engine
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Cocos" />
+  <img src="https://img.shields.io/badge/Cocos-00010?logo=cocos&logoColor=white" alt="Cocos" />
 </p>
 
 #### &nbsp;Databases & Messaging
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Splunk-632CA6?logo=splunk&logoColor=white" alt="Splunk" />
 </p>
 
 ---

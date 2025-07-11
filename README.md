@@ -68,13 +68,17 @@
 
 ---
 
-### 📫 Contact
+<h3 align="center">📫 Contact</h3>
 
-- Email: chauhangaurav101@gmail.com
-- LinkedIn: [Add your profile link]
-- Hackerearth: gachngachn
-
----
+<p align="center">
+    <a href="mailto:chauhangaurav101@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/gachn" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</p>
 
 <p align="center">
   <em>Let's build something amazing together!</em>

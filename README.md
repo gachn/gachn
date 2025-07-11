@@ -41,7 +41,7 @@
 #### &nbsp;Databases & Messaging
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="CouchbaseDB" />
+  <img src="https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=white)" alt="Couchbase" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Kafka" />
